@@ -11,7 +11,7 @@ categories: development
 
 This is a puzzle where you arrange the number shown in the 4X4 tile. There are numbers 1-15.
 
-![image](https://res.cloudinary.com/dg8gqr85x/image/upload/v1677389671/puzzle_s1pkap.png)
+![image](https://res.cloudinary.com/dg8gqr85x/image/upload/v1677389600/puzzle_qpa5ap.png)
 
 ---
 
@@ -30,6 +30,8 @@ This is what your puzzle will look like when you arranged all the numbers:
 **Don't just think now!**
 
 Look broader and think the next step while you are doing the current step.
+
+---
 
 ## Effects of this puzzle
 
