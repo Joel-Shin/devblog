@@ -6,6 +6,7 @@ categories: development
 ---
 
 ## Introduction
+
 ---
 
 This is a puzzle where you arrange the number shown in the 4X4 tile. There are numbers 1-15.
@@ -24,6 +25,14 @@ This is what your puzzle will look like when you arranged all the numbers:
 
 ---
 
+## Strategies
+
+**Don't just think now!**
+
+Look broader and think the next step while you are doing the current step.
+
 ## Effects of this puzzle
 
 By utilizing cognitive and analytical skills, you can expect iq increase and dementia prevention by doing this number arrangement puzzle frequently.
+
+![image](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/Thinking%20by%20Sprinting.jpeg)
