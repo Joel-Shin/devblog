@@ -16,4 +16,14 @@ This is a puzzle where you arrange the number shown in the 4X4 tile. There are n
 
 ## Your goal
 
-In this puzzle, your objective is to arrange the numbers 1-15 so that the numbers are arranged in a numberical order. The order is from left to right, and top to bottom. 
+In this puzzle, your objective is to arrange the numbers 1-15 so that the numbers are arranged in a numberical order in your least move possible. The order is from left to right, and top to bottom.
+
+This is what your puzzle will look like when you arranged all the numbers:
+
+![image](https://res.cloudinary.com/dg8gqr85x/image/upload/v1677390328/solution_aihz3m.png)
+
+---
+
+## Effects of this puzzle
+
+By utilizing cognitive and analytical skills, you can expect iq increase and dementia prevention by doing this number arrangement puzzle frequently.
