@@ -31,6 +31,8 @@ This is what your puzzle will look like when you arranged all the numbers:
 
 Look broader and think the next step while you are doing the current step.
 
+"Ye cannot see the wood for the trees." - John Heywood
+
 ---
 
 ## Effects of this puzzle
@@ -38,3 +40,5 @@ Look broader and think the next step while you are doing the current step.
 By utilizing cognitive and analytical skills, you can expect iq increase and dementia prevention by doing this number arrangement puzzle frequently.
 
 ![image](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/Thinking%20by%20Sprinting.jpeg)
+
+<img src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/Thinking%20by%20Sprinting.jpeg"  width="400" height="200">
