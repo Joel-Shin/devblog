@@ -27,11 +27,15 @@ This is what your puzzle will look like when you arranged all the numbers:
 
 ## Strategies
 
+> "Ye cannot see the wood for the trees." - John Heywood
+
+<img src = "https://1.bp.blogspot.com/-2KncNt4PNqA/Wud76NjRyEI/AAAAAAAAfrg/BhDjOMQeg9gZkrF4uH11HPEHI0ihTf1wgCLcBGAs/s1600/Can%2527t%2BSee%2Bthe%2BForest%2BFor%2Bthe%2BTrees.png" width = "300" height= "240">
+
+---
+
 **Don't just think now!**
 
 Look broader and think the next step while you are doing the current step.
-
-"Ye cannot see the wood for the trees." - John Heywood
 
 ---
 
@@ -39,6 +43,4 @@ Look broader and think the next step while you are doing the current step.
 
 By utilizing cognitive and analytical skills, you can expect iq increase and dementia prevention by doing this number arrangement puzzle frequently.
 
-![image](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/Thinking%20by%20Sprinting.jpeg)
-
-<img src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/Thinking%20by%20Sprinting.jpeg"  width="400" height="200">
+<img src = "https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/Thinking%20by%20Sprinting.jpeg" width = "300" height= "200">
