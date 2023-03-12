@@ -44,3 +44,5 @@ Look broader and think the next step while you are doing the current step.
 By utilizing cognitive and analytical skills, you can expect iq increase and dementia prevention by doing this number arrangement puzzle frequently.
 
 <img src = "https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/Thinking%20by%20Sprinting.jpeg" width = "300" height= "200">
+
+## Something
