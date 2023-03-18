@@ -45,4 +45,3 @@ By utilizing cognitive and analytical skills, you can expect iq increase and dem
 
 <img src = "https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/Thinking%20by%20Sprinting.jpeg" width = "300" height= "200">
 
-## Something
