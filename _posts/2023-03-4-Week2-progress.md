@@ -128,3 +128,67 @@ First, I wrote about the general summary of the puzzle game. Then I wrote the ba
 ![image](https://res.cloudinary.com/dg8gqr85x/image/upload/v1678850959/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2023-03-15_122900_lkxwop.png)
 
 After writing the general rules, I wrote about the case of reaching the objective of the game, and also the case of failing the objecetive of the game. Furthermore, I wrote about how to change the difficulty level: I suggested rotation and cutting abilities.
+
+---
+
+## User Interface
+
+---
+
+**What is user interface?**
+
+User interface or UI, is the point of human-computer interaction and communication in a device. 
+
+![image](https://res.cloudinary.com/dg8gqr85x/image/upload/v1679876267/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2023-03-27_091734_wyd2ki.png)
+
+I tried designing the user interface of the beginning screen, different tools, and the ending screen.
+
+---
+
+## App Icon
+
+---
+
+App icon is extremely important when it comes to publishing it. This is because these icon will be the shown to the users, so the icon's function need to be recognized easily, the icon needs to be simple, and it is good if it have a sort of metaphor to convey meaning.
+
+![image](https://res.cloudinary.com/dg8gqr85x/image/upload/v1679876191/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2023-03-27_091446_in2m53.png)
+
+I utilized the main color of the game, and I believed that having an exclaimation mark as a logo would be a great metaphor to insight or intelligence, since exclaimation marks often appear when the character thought of something brilliant or creative in a movie or cartoon.
+
+---
+
+## Tutorial
+
+---
+
+**What is tutorial?**
+
+Tutorial is any tool that teaches players the rules and controls of the game.
+
+Tutorial is necessary and important because it teaches the user how to use this app. Tutorial would involve with two ideas: Learnability and the Usability.
+
+![image](https://res.cloudinary.com/dg8gqr85x/image/upload/v1679876191/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2023-03-27_091510_vxn2hc.png)
+
+Since tutorial would require good learnability and usability, I tried defining and giving examples of these word to get a better idea of making a good tutorial.
+
+After knowing these terms, I tried to construct a tutorial for this game.
+
+![image](https://res.cloudinary.com/dg8gqr85x/image/upload/v1679876191/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2023-03-27_091539_snkol4.png)
+
+![image](https://res.cloudinary.com/dg8gqr85x/image/upload/v1679876191/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2023-03-27_091547_g6wyko.png)
+
+In these seven steps of tutorial, I attempted to teach the user how to use the tools of this puzzle game, and the objective of the game. 
+
+---
+
+## Conclusion
+
+---
+
+These were all I did and learned for the designing process before coding. The other blog will discuss more specifically about the coding process.
+
+Generally, the designing process of the game was fascinating and I learned that designs and the preparing step is very important because design attracts people, and prepardness leads better quality.
+
+**Puzzle design completed!**
+
+![image](http://clipart-library.com/images/kcMnoEjXi.png)
