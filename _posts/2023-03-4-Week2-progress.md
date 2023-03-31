@@ -191,4 +191,4 @@ Generally, the designing process of the game was fascinating and I learned that 
 
 **Puzzle design completed!**
 
-![image](http://clipart-library.com/images/kcMnoEjXi.png)
+![image](https://cdn.pixabay.com/photo/2022/12/11/04/11/thumbs-up-7648171_1280.png)
