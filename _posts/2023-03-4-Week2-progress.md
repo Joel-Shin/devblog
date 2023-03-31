@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Development process of a game
+title:  Development process of a game (Design / Preparing)
 date:   2023-03-4 14:02:25 +0900
 categories: development
 ---
