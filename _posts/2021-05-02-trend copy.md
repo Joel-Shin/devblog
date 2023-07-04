@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Disturbing modern trends: Starting to change a one-hand sized black box into a playground where my loved ones are invited"
+title:  "One up Againt the Modern Trends Series: 1. starting to change a one-hand sized black box into a playground where my loved ones are invited"
 date:   2021-05-02 14:02:25 +0900
 categories: development 
 ---
