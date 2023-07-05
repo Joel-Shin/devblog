@@ -15,8 +15,6 @@ Before I could formulate realistic plans, I had to gain a clear understanding of
 
 Consequently, I decided to conduct interviews with my mother and grandmother, who had experienced countless technology-related challenges. During the interviews, I asked them for three things: a list of the technology problems they encountered, the problems they encountered most frequently, and one technology they were familiar with.
 
-##
-
 ## Results
 
 ---
@@ -42,8 +40,6 @@ One particular problem that caught my attention was my grandmother's frequent st
 As for technologies they were familiar with, they mostly involved daily activities such as reading news on smartphones and communicating through KakaoTalk. This indicated that it was not entirely impossible to introduce them to the digital world.
 
 After analyzing this data, I gained a deeper understanding of the relevant problems. Internet browsing emerged as the most severe issue, while app installations and wifi connectivity were also significant challenges.
-
-##
 
 ## Discussion
 

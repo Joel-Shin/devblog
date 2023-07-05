@@ -20,7 +20,6 @@ So, I assisted my mother in creating an email account on her smartphone. While d
 
 Her concern genuinely alarmed me and made me realize that technology barriers can create a divide between my mother and the fast-paced digital world I inhabit. This issue wasn't exclusive to my mother alone; my grandmother was also encountering similar challenges. When my grandmother initially started using KakaoTalk, she struggled immensely. She couldn't figure out how to select specific recipients for her messages, and sharing photos seemed impossible. Witnessing my grandmother's struggles with these technologies deeply saddened me because she didn't opt to use them willingly; societal pressure pushed her to adopt these technologies, thereby excluding those who are unable to embrace them.
 
-##
 ## Evidences
 
 ---
